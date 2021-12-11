@@ -1,0 +1,31 @@
+body {
+	color: rgb(0, 100, 0);
+	background-color: rgb(74.634, 38.25, 20.991);
+}
+
+#titleLogo {
+	border: groove thick rgb(47.813, 47.813, 47.813);
+	padding-left: 20px;
+}
+
+#titleLogo {
+	font-weight: bolder;
+	text-shadow: -3px 3px 3px #000;
+}
+
+ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	float: left;
+}
+
+a {
+	display: block;
+	padding: 8px;
+	background-color: rgb(114.55, 84.668, 44.824);
+}
+
